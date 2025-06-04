@@ -1,0 +1,62 @@
+
+img {
+    display: block;
+    width: auto;
+    margin: auto;
+}
+
+.top {
+    border: 2px solid black;
+    padding: 7px;
+    text-align: center;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+h2 {
+    font-size: x-large;
+}
+
+p {
+    border: 2px solid black;
+    padding: 7px;
+}
+
+ul, ol {
+    border: 2px solid black;
+    padding-left: auto;
+    padding-right: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: -12px auto;
+}
+
+.subtitle {
+   font-style: italic; 
+}
+
+a {
+    text-decoration: none;
+}
+
+.button {
+    display: inline-block;
+    vertical-align: middle;
+    box-sizing: border-box;
+    inline-size: auto;
+    cursor: pointer;
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: white;
+    padding: 2px 4px;
+    border: none;
+}
+
+
+.button:hover {
+    background-color: lightblue;
+    border: 1px solid black;
+
+}
+
